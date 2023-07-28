@@ -1,7 +1,7 @@
-import  { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import InfiniteScroll from "react-infinite-scroll-component";
-import Select from "react-select";  // from react- select-npm library ;
+import Select from "react-select"; // from react- select-npm library ;
 
 import "./style.scss";
 
